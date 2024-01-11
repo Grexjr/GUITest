@@ -7,7 +7,7 @@ import java.io.*;
 
 public class GUITest5 { //Move to new folder
 
-    public static void firstButton(){ //Commit test comment fifth one
+    public static void firstButton(){ //Commit test comment sixth one
         JFrame frame = new JFrame("My First GUI");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300,300);
